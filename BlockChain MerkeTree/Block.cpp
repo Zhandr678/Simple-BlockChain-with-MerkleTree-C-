@@ -5,8 +5,8 @@ Block::Block(std::string hash)
 {
 	this->block_hash = previous_hash;
 	this->previous_hash = "NULL";
-	timestamp = std::chrono::system_clock::to_time_t(std::chrono::system_clock::now());
-	tree = MerkleTree();
+	this->timestamp = std::chrono::system_clock::to_time_t(std::chrono::system_clock::now());
+	this->tree = MerkleTree();
 }
 
 Block::Block(std::string previous_hash, std::vector<Transaction> transaction)
