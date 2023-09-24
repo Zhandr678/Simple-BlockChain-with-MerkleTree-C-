@@ -1,0 +1,12 @@
+﻿  Block.cpp
+  BlockChain.cpp
+  main.cpp
+  MerkleTree.cpp
+  timeParser.cpp
+  Transaction.cpp
+  TransactionPool.cpp
+  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 1080 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  BlockChain MerkeTree.vcxproj -> C:\Users\Home\source\repos\BlockChain MerkeTree\x64\Release\BlockChain MerkeTree.exe
