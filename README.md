@@ -1,6 +1,6 @@
 # Simple-BlockChain-with-MerkleTree-C++
 C++ implementation of Blockchain app with MerkleTree
-Zhandarbek Saginov, Madyiar Kaliev
+Zhandarbek Saginov, Madiyar Kaliyev
 # NOTES AND WARNINGS:
 1) Commands are processed by keyboard;
 2) There should not be any memory leaks (but may persist);
